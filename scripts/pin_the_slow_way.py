@@ -88,6 +88,7 @@ pinned = {
           'libblitz': 'libblitz 0.10|0.10.*',  # NA
           'libevent': 'libevent 2.0.22',  # 2.0.22
           'libgdal': 'libgdal 2.2.*',  # 2.2.0
+          'libgit2': 'libgit2 0.25.1', # NA
           'libiconv' :'libiconv 1.15',  # 1.15
           'libmatio': 'libmatio 1.5.*',  # NA
           'libnetcdf': 'libnetcdf 4.4.*',  # 4.4.1
